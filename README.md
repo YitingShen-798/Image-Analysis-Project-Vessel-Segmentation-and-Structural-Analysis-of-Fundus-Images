@@ -27,7 +27,7 @@ Step 2: Apply morphological thinning to extract a 1-pixel wide vascular skeleton
 
 Step 3: Count the number of pixels in the skeleton to measure the total vascular length.
 
-Step 4: Identify and measure vascular structures wider than 40 pixels.
+Step 4: Identify and measure vascular structures wider than 20 pixels.
 
 Step 5: Compute the orientation distribution of the thinned vessels and visualize it in a polar (rose) plot.
 
